@@ -37,7 +37,7 @@ https://jsonplaceholder.typicode.com
 
 
 ## Demo
-
+https://ratajczak-dev.github.io/Mini-data-analytics-from-API/
 
 
 ## About author
