@@ -40,6 +40,12 @@ https://jsonplaceholder.typicode.com
 https://ratajczak-dev.github.io/Mini-data-analytics-from-API/
 
 
+## Other info
+## Notes
+This was my first project of this kind, so I relied on online resources and AI tools to learn new techniques.
+
+
+
 ## About author
 High school student studying programming and web development. Interested in front-end technologies.
 
