@@ -1,0 +1,50 @@
+body {
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(240, 234, 218);
+    margin: 0;
+}
+
+header{
+    background-color: rgb(196, 188, 167);
+    width: 100%;
+    margin: 10px;
+    border-radius: 10%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+}
+
+table{
+    width: 1450px;
+    height: 550px;
+}
+
+tr, th, td{
+    border: 3px black solid;
+    border-collapse: separate;
+    width: 362.5px;
+}
+
+#BarChart{
+    width: 1450px;
+    height: 550px;
+}
+
+#CircleChart1, #CircleChart2{
+     width: 1000px;
+     height: 1000px;
+}
+
+#Circle-Charts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
